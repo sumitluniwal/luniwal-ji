@@ -1,2 +1,2 @@
-# luniwal-ji
-this is my first git repository
+# Luniwal-ji
+This is my first git repository
